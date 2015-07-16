@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#b3daa8">
+
+    <ImageView
+        android:layout_width="530dp"
+        android:layout_height="260dp"
+        android:id="@+id/imageView"
+        android:background="@drawable/greenhouse"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="Next"
+        android:id="@+id/waste_button"
+        android:background="@drawable/blank_button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/imageView"
+        android:layout_alignEnd="@id/waste_button" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="Back"
+        android:id="@+id/back_button"
+        android:background="@drawable/blank_button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/imageView"
+        android:layout_alignEnd="@id/back_button" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="400dp"
+        android:fillViewport="false"
+        android:id="@+id/scroll"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentLeft="true"
+        android:padding="30dp"
+        android:paddingTop="50dp"
+        android:paddingBottom="30dp"
+        android:layout_above="@+id/waste_button">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/editText6"
+            android:text="@string/climate_change"
+            android:gravity="fill"
+            android:textSize="30dp"
+            android:textColor="#000" />
+    </ScrollView>
+
+
+</RelativeLayout><!-- From: file:/C:/Users/Alissa/Desktop/MODS/Activity1/app/src/main/res/layout/tip.xml -->

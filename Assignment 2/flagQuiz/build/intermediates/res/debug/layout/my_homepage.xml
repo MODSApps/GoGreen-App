@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@drawable/quiz_homepg">
+
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/start_button"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/back_button"
+        android:layout_alignParentTop="true"
+        android:background="#00000000"
+        android:layout_alignParentStart="true" />
+</RelativeLayout><!-- From: file:/C:/Users/Alissa/Desktop/MODS/Activity1/flagQuiz/src/main/res/layout/my_homepage.xml -->

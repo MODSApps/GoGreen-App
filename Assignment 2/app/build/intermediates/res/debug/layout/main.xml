@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/homepgg">
+
+    <Button
+        android:layout_width="370dp"
+        android:layout_height="100dp"
+        android:id="@+id/continue_button"
+        android:layout_marginTop="301dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#000faa09" />
+
+    <Button
+        android:layout_width="370dp"
+        android:layout_height="100dp"
+        android:id="@+id/new_button"
+        android:layout_marginTop="28dp"
+        android:background="#000faa09"
+        android:layout_below="@+id/continue_button"
+        android:layout_alignLeft="@+id/continue_button" />
+
+    <Button
+        android:layout_width="370dp"
+        android:layout_height="95dp"
+        android:id="@+id/map_button"
+        android:background="#000faa09"
+        android:layout_marginTop="28dp"
+        android:layout_below="@+id/new_button"
+        android:layout_alignLeft="@+id/new_button" />
+
+    <Button
+        android:layout_width="370dp"
+        android:layout_height="100dp"
+        android:id="@+id/exit_button"
+        android:layout_marginTop="28dp"
+        android:background="#000faa09"
+        android:layout_below="@+id/map_button"
+        android:layout_alignLeft="@+id/map_button" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Alissa/Desktop/MODS/Activity1/app/src/main/res/layout/main.xml -->
