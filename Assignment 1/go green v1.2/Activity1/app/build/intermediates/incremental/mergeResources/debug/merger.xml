@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res"><file name="blank_button" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\blank_button.png" qualifiers="hdpi" type="drawable"/><file name="blank_homepg" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\blank_homepg.png" qualifiers="hdpi" type="drawable"/><file name="gogreenex" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\gogreenex.jpg" qualifiers="hdpi" type="drawable"/><file name="homepgg" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\homepgg.png" qualifiers="hdpi" type="drawable"/><file name="house" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\house.jpg" qualifiers="hdpi" type="drawable"/><file name="icon" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\icon.jpeg" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="infopg" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\infopg.png" qualifiers="hdpi" type="drawable"/><file name="map_mods" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\map_mods.gif" qualifiers="hdpi" type="drawable"/><file name="mods_map" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\mods_map.png" qualifiers="hdpi" type="drawable"/><file name="outside" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\outside.png" qualifiers="hdpi" type="drawable"/><file name="trip" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-hdpi\trip.jpg" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi" type="drawable"/><file name="trip" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-ldpi\trip.jpg" qualifiers="ldpi" type="drawable"/><file name="ic_launcher" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="trip" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\drawable-mdpi\trip.jpg" qualifiers="mdpi" type="drawable"/><file name="about1" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\about1.xml" qualifiers="" type="layout"/><file name="energyefficent" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\energyefficent.xml" qualifiers="" type="layout"/><file name="house" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\house.xml" qualifiers="" type="layout"/><file name="house_bathroom" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\house_bathroom.xml" qualifiers="" type="layout"/><file name="house_bedroom" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\house_bedroom.xml" qualifiers="" type="layout"/><file name="house_garage" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\house_garage.xml" qualifiers="" type="layout"/><file name="house_kitchen" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\house_kitchen.xml" qualifiers="" type="layout"/><file name="informationnew" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\informationnew.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="main1" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\main1.xml" qualifiers="" type="layout"/><file name="map" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\map.xml" qualifiers="" type="layout"/><file name="outside" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\outside.xml" qualifiers="" type="layout"/><file name="rec_at_mods" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\rec_at_mods.xml" qualifiers="" type="layout"/><file name="tip" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\tip.xml" qualifiers="" type="layout"/><file name="trip" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\trip.xml" qualifiers="" type="layout"/><file name="trip_lyrics" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\trip_lyrics.xml" qualifiers="" type="layout"/><file name="trip_materials" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\trip_materials.xml" qualifiers="" type="layout"/><file name="waste" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout\waste.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\layout-land\main.xml" qualifiers="land" type="layout"/><file name="menu" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\menu\menu.xml" qualifiers="" type="menu"/><file path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\values\arrays.xml" qualifiers=""><array name="difficulty">
+      <item>@string/easy_label</item>
+      <item>@string/medium_label</item>
+      <item>@string/hard_label</item>
+   </array><array name="Map">
+        <item>@string/go_green</item>
+        <item>@string/pu</item>
+        <item>@string/storm</item>
+    </array></file><file path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\values\colors.xml" qualifiers=""><color name="background">#5f8</color></file><file path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\values\strings.xml" qualifiers=""><string name="easy_label">Easy</string><string name="about_text">\
+<b>Go Green is an...</b>
+</string><string name="info_label">Information</string><string name="Trip">TRIP the Robot</string><string name="test">What do you want a map of?</string><string name="settings_shortcut">s</string><string name="trip_lyrics">Whatcha gonna do
+r-e-c-y-c-l-e
+
+Hey! Alright Whatcha gonna do
+with those bottles and jars
+Whatcha gonna do
+with aluminum cans
+put your hands up
+pots and pans
+i said whatcha gonna do
+whatcha gonna do
+before it all comes down
+r-e-c-y-c-l-e 2x
+
+Whatcha gonna do
+with those things you don’t use
+pots and pans and all the goofballs too
+I said whatcha gonna go
+with that worn down tire
+we’re so close who knows even copper wire
+i said whatcha gonna do
+whatcha gunna do to help me and you
+
+whatcha gonna do ertyjht*** me and you
+
+r-e-c-y-c-l-e 2x
+
+hey!
+whatcha gonna do
+with those clothes  you don’t need
+give it to institutions, associations, salvation army
+i said whatcha gonna do with mama’s high heel shoes
+and anything else you got that she don’t use
+i said whacha gonna do
+whacha gonna do
+
+give me an r..e..c..y..c..l..e..
+gimme an “R”
+-R!
+gimme an “E”
+-E!
+gimme a “C”
+-C!
+gimme a “Y”
+-Y!
+gimme a “C-L-E”
+-C-L-E!
+r-e-c-y-c-l-e 13x
+
+
+
+
+
+
+Talking part:
+they keep their old thermostat in the 60s
+and even leave the lights and computers on all day
+all i can say is waste waste waste
+now, my other neighbors they’re as green as grass
+check out that solar panel, wind turbine, and even their high tech window glass
+you can almost hear the money being saved and the money being made
+on a good day, this family can supply their entire home with clean and renewable energy,
+making their house a model of energy efficiency.
+dont forget the small things that help out either
+an LED light bulb here, and a compost pile there
+why they could even build another “me” with the amount of materials they’re recycling
+so i want you to go ahead
+take a look around my neighborhood
+and learn what you can do to be green
+there’s a lot of ways to conserve energy out there
+And I need you to do your part
+
+</string><string name="eng_eff_text">
+        \n-A playstation uses more energy than a refrigerator\n
+        -America burns nearly half of the world’s gasoline\n
+        -The World Coal Institute says that, at current production levels, proven coal
+        reserves are estimated to last 147 years. That means no more coal after 2155.\n
+
+    <i>So how do we fix this?</i>\n
+    -Researchers suggest that if developers had to prepay 50 years’ worth of utility bills,
+        buildings would be constructed so that they waste less energy. \n
+    -UNPLUG YOUR DEVICES WHEN THEY AREN’T BEING USED!!!!
+</string><string name="hints_title">Hints</string><string name="new_game_title">Difficulty</string><string name="back_button"><b>Back</b></string><string name="hard_label">Hard</string><string name="medium_label">Medium</string><string name="main_title">Go Green</string><string name="music_summary">Play background music</string><string name="Map">Map</string><string name="no_rec_bins">\t\t\tWhy Are There No\n Recycling Bins In MODS?</string><string name="Information">Information</string><string name="music_title">Music</string><string name="hints_summary">Show hints during play</string><string name="rec_at_mods">\nThe City of Fort Lauderdale waste services sorts through all
+        the trash to find recyclables as an automatic and free service to all residents. Companies
+    such as Republic Services, the sponsor of this Go Green exhibit, help the world by recycling
+    what we forget to. </string><string name="about_title">About Android Sudoku</string><string name="settings_title">Sudoku settings</string><string name="info_popUp">Information about going green:</string><string name="exit_label">Exit</string><string name="tips">Tips and Tricks</string><string name="settings_label">Settings...</string><string name="game_label">Games</string><string name="app_name">Go Green</string><string name="eng_eff_button">Energy Efficiency</string><string name="pu">Powerful You</string><string name="go_green">Go Green</string><string name="storm">Storm Center</string><string name="rec">Recycling in MODS</string></file><file name="settings" path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\main\res\xml\settings.xml" qualifiers="" type="xml"/></source><source path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\build\generated\res\rs\debug"/><source path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Alissa\AndroidStudioProjects\Go_Green0\Activity1\app\src\debug\res"/></dataSet><mergedItems/></merger>
